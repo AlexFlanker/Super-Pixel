@@ -6,7 +6,9 @@ http://rogerdudler.github.io/git-guide/
 
 <br />
 <br />
+
 # Prerequisite & Tips
+
 Tensorflow installed, the tensorflow_examples folder include two example python codes: mnist_tf.py is just to download the dataset of MNIST and try simple estimator, mnist_deep_tf.py can then run a deep learning instance which can recoginze writing image with a 99.8% accuracy score! <br />
 <br />
 Until now, there are some pre-installed libraries and tools have been settled down, the whole arduous trial is worthwile and I will give a summary about troubleshooting of such libraries and tools.
