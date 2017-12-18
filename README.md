@@ -1,4 +1,4 @@
-# Super-Pixel
+# Super-Resolution
 Tianjie Sun@Cornell University <br /> Yange Feng@CIOMP <br />
 This repo is an archive of research and project about Super-Pixel <br />
 This is also a worklog which can conduct whole project, here is also a link which can help to be familiar with git workflow!
